@@ -1,0 +1,5 @@
+io/github/eduvieirabr/domain/entity/Cpf.class
+io/github/eduvieirabr/domain/repository/Cpfs.class
+io/github/eduvieirabr/rest/controller/CpfContoller.class
+io/github/eduvieirabr/Conf.class
+io/github/eduvieirabr/CpfcadApplication.class
